@@ -13,6 +13,10 @@ html {
     height: 100%;
 }
 
+head{
+  font-family: 'Cabin Sketch', cursive;
+}
+
 body,
 h1,
 h2,
@@ -22,15 +26,26 @@ h5,
 h6 {
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
+    font-family: 'Cabin Sketch', cursive;
+
+
+
 }
 
+.Depoimento{
+font-family: 'Kotta One', serif;
+font-size: 23px;
+}
 .intro-header {
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-    color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    color: #c5d6a4;
+    background: url(http://www.cabidecolorido.com.br/wp-content/uploads/2015/04/original.png) no-repeat center center;
     background-size: cover;
+
+
+
 }
 
 .intro-message {
@@ -110,7 +125,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(http://tenudge.eu/wp-content/uploads/2015/12/letters.jpg) no-repeat center center;
     background-size: cover;
 }
 
